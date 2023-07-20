@@ -24,6 +24,7 @@ body {
   font-family: "Muli", sans-serif;
   transition: 1s;
   overflow: hidden;
+  background-image: url(https://thumbs.dreamstime.com/b/seamless-cartoon-city-background-vector-illustration-separate-layers-92796292.jpg);
 }
 
 .wrapper {
